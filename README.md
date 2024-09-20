@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/social-links-profile-lqmLitxDlh)
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/product-preview-card-component-2SgsS7VLaW)
 - Live Site URL: [GitHub Pages Live URL](https://justcallmezino.github.io/Product-preview-card-component/)
 
 ## My process
